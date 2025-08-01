@@ -1,0 +1,9 @@
+accelerate
+diffusers
+invisible_watermark
+torch
+transformers
+xformers
+compel
+pydantic==2.10.6
+gradio==5.12.0
